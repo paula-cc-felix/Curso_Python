@@ -1,2 +1,2 @@
 # Curso_Python
-Repositório referente aos trabalhos realizados
+Repositório referente à ficha3 do Curso de Python da EISnt

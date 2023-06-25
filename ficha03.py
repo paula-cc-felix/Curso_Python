@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 10 18:49:01 2023
 
-@author: paula_cc_felix
+@author: paula
 """
 
 # Exercício 1: Criador de Perfil de Personagem
